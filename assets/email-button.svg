@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="91" viewBox="0 0 134 91">
+  <defs>
+    <filter id="Rectangle_18" x="0" y="0" width="134" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#7272bf"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.08" x2="0.5" y2="1.028" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#637bbe"/>
+      <stop offset="1" stop-color="#637bbe"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_67" data-name="Group 67" transform="translate(-1090 -743)">
+    <g id="Component_22_37" data-name="Component 22 – 37" transform="translate(1096 749)">
+      <g transform="matrix(1, 0, 0, 1, -6, -6)" filter="url(#Rectangle_18)">
+        <rect id="Rectangle_18-2" data-name="Rectangle 18" width="116" height="73" rx="5" transform="translate(6 6)" fill="#c8c8e0"/>
+      </g>
+    </g>
+    <g id="email" transform="translate(1110.798 744.616)">
+      <path id="Path_31" data-name="Path 31" d="M15.083,25.762,24.706,33.9a2,2,0,0,0,2.589,0l9.623-8.142A1,1,0,0,0,36.271,24H15.729A1,1,0,0,0,15.083,25.762Z" transform="translate(7.411 7.482)" fill="url(#linear-gradient)"/>
+      <path id="Path_32" data-name="Path 32" d="M74.558,18.546a15.2,15.2,0,0,0-5.879-1.123c-7.637,0-13.021,5.784-13.021,12.2,0,4.092,2.746,6.387,5.933,6.387,3.3,0,5.825-2.061,7.748-4.834h.219a4.363,4.363,0,0,0,4.066,4.834c5.165,0,9.78-4.281,9.78-12.048C83.4,15.319,76.976,9,67.416,9,57.6,9,50.6,14.973,48.244,22.863H9.931A6.939,6.939,0,0,0,3,29.794V65.837a6.939,6.939,0,0,0,6.931,6.931H59.837a6.939,6.939,0,0,0,6.931-6.931V44.918a19.459,19.459,0,0,0,7.02-1.946l-.879-2.226a18,18,0,0,1-8.3,1.813c-8.132,0-14.121-5.336-14.121-13.983,0-10.512,7.527-17.194,16.483-17.194,8.516,0,13.3,5.383,13.3,12.894,0,6.007-3.133,9.525-5.935,9.472-1.813-.051-2.473-1.873-1.648-5.809ZM9.931,25.635h37.7a21.177,21.177,0,0,0-.269,3.251,16.17,16.17,0,0,0,2.574,8.983L37.518,48.028a4.177,4.177,0,0,1-5.269,0L6.742,27.157A4.134,4.134,0,0,1,9.931,25.635Zm12.6,18.022L5.773,57.367V29.947ZM59.837,70H9.931a4.164,4.164,0,0,1-4.159-4.159V60.949l18.946-15.5L30.5,50.175a6.956,6.956,0,0,0,8.778,0l5.778-4.727L64,60.949v4.888A4.164,4.164,0,0,1,59.837,70ZM64,45.043V57.367L47.24,43.657l4.424-3.62A16.98,16.98,0,0,0,64,45.043Zm5.617-18.59c-.6,3.211-3.517,7.042-6.7,7.042-2.418,0-3.627-1.657-3.627-3.936,0-5.024,3.9-9.321,8.736-9.321a10.029,10.029,0,0,1,2.748.363Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="16" height="2" transform="translate(26 67)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

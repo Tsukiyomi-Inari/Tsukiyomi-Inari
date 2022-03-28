@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="710" height="34" viewBox="0 0 710 34">
+  <defs>
+    <filter id="Contact_me" x="0" y="0" width="710" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#637bbe"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Contact_me)">
+    <text id="Contact_me-2" data-name="Contact me" fill="#c15ea6" font-size="30" font-family="PressStart2P-Regular, 'Press Start \32 P'"><tspan x="0" y="30">_________CONTACT</tspan></text>
+  </g>
+</svg>
