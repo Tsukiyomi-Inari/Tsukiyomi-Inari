@@ -11,4 +11,4 @@
 <a href="mailto:katherine.bellman@dcmail.ca" target="_blank" ><img src="assets/email-button.svg"  width="10%"/></a> <a href="https://www.linkedin.com/in/katherine-bellman/" target="_blank"><img src="assets/linked-in-button.svg" width="10%"/></a> <!-- <a href="https://codepen.io/tsukiyomi-inari" target="_blank"><img src="assets/code-pen-button.svg"/></a> -->
 ---
 
-<img src="assets/technologies_window.svg"  width="75%">
+<img src="assets/technologies_window.svg"  width="50%" >
