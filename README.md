@@ -10,4 +10,4 @@
 
 <a href="mailto:katherine.bellman@dcmail.ca" target="_blank"><img src="assets/email-button.svg" /></a> <a href="https://www.linkedin.com/in/katherine-bellman/" target="_blank"><img src="assets/linked-in-button.svg"/></a> <!-- <a href="https://codepen.io/tsukiyomi-inari" target="_blank"><img src="assets/code-pen-button.svg"/></a> -->
 ---
-<img src="assets/technologies_window.svg" width="100%">
+<p align="center"><img src="assets/technologies_window.svg" width="600"></p>
