@@ -1,0 +1,67 @@
+<svg width="397" height="211" viewBox="0 0 397 211" fill="none" xmlns="http://www.w3.org/2000/svg">
+   <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+       @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+        .container{ 
+          background: #ecd9f5;  
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: #122237;
+          
+          box-shadow: 9px 36px 9px rgba(0, 0, 0, 0.5) inset ;
+          
+          width: 100%;
+          height: 211px;          
+          
+          font-family: "Droid Sans", monospace;
+        }
+
+        h1 {
+            font-weight: 800;
+        text-shadow: 3px 3px 2px #6D7989;
+        }
+
+        h4{
+            font-weight: 500;
+            text-shadow: 3px 3px 2px #df89fa;
+        }
+        
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          justify-content: center;
+          align-items:center;
+          display: inline-block;
+          text-align: center;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
+ </style>
+  <div class="container">
+       <div align="center"><h1>KATHERINE BELLMAN</h1><h4>Crafting Code, Desigining Experience</h4> <h1><div class="hi">💻</div></h1></div>
+      </div>
+    </div>
+  </foreignObject>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M397 0.498413H0V211.01H397V0.498413ZM392.575 34.0032H6.00547V205.32H392.575V34.0032Z" fill="#DF89FA"/>
+<rect x="375.822" y="9.03271" width="16.7524" height="16.7524" fill="#ECD9F5"/>
+<path d="M380.047 11.5613L377.719 13.6619L378.908 14.7346L381.846 17.4312L378.908 20.083L377.719 21.111L380.047 23.2563L381.235 22.1837L384.223 19.4871L387.162 22.1837L388.301 23.2563L390.678 21.111L389.49 20.083L386.502 17.4312L389.49 14.7346L390.678 13.6619L388.301 11.5613L387.162 12.6339L384.223 15.2858L381.235 12.6339L380.047 11.5613Z" fill="#122237"/>
+</svg>
